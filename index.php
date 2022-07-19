@@ -49,6 +49,6 @@ $enviado='';
         }
  }
 
-    require 'index.view.php'
+    require 'index.html'
 
 ?>
